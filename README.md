@@ -1,3 +1,2 @@
 # Paper-Hot
-Classic paper  Respository.
-论文仓库
+分享一些热门论文阅读笔记。
